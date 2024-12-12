@@ -9,7 +9,7 @@ public class SortingPrac17Sep24II {
         int[] arr = new int[10];
 
         for (int i = 0; i < arr.length; i++) {
-            arr[i] = random.nextInt(0, 15);
+            arr[i] = random.nextInt(15);
         }
 
         System.out.println(Arrays.toString(arr));
