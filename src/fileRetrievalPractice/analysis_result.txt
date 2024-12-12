@@ -1,0 +1,4 @@
+Line count: 3
+Word count: 12
+Character count: 47
+Longest word: HelloWorld (10 characters)
